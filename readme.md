@@ -7,7 +7,7 @@ With no alteration, this commit demonstrates scenario c.
 
 ## How to run
 ```
-docker compose --compatibility up
+docker-compose up
 ```
 Then visit http://localhost:8000
 <br>
