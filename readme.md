@@ -9,7 +9,7 @@ With no alteration, this commit demonstrates scenario c.
 ```
 docker compose --compatibility up
 ```
-Then visit http://localhost:8000/examp-1.html
+Then visit http://localhost:8000
 <br>
 
 ## Results
