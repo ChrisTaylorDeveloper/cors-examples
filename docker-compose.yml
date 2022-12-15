@@ -1,0 +1,11 @@
+services:
+    origin:
+        build:
+            context: ./origin
+        ports:
+            - "8000:80"
+    cross:
+        build:
+            context: ./cross
+        ports:
+              - "8001:80"
